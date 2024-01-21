@@ -74,7 +74,7 @@ End;
 
 
 
-Create Function SearchManager 
+Alter Function SearchManager 
 (
 	@username varchar(50),
 	@password varchar(50)

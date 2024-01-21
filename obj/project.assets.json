@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\CSharpProjectClient\\CSharpProjectClient.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\C#\\C# Code\\CSharpProject\\CSharpProjectClient\\CSharpProjectClient.csproj",
       "projectName": "CSharpProjectClient",
-      "projectPath": "C:\\Users\\user\\Desktop\\CSharpProjectClient\\CSharpProjectClient.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\C#\\C# Code\\CSharpProject\\CSharpProjectClient\\CSharpProjectClient.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\CSharpProjectClient\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\C#\\C# Code\\CSharpProject\\CSharpProjectClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
